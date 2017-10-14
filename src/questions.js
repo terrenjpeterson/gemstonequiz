@@ -5,357 +5,358 @@ module.exports = {
      * When editing your questions pay attention to your punctuation. Make sure you use question marks or periods.
      * Make sure the first answer is the correct one. Set at least ANSWER_COUNT answers, any extras will be shuffled in.
      */
-    "QUESTIONS_EN_GB" : [
-        {
-            "What was the nickname that mariners gave to Sharks until the 16th century?":[
-                "Sea Dogs",
-                "Big Scary Fish",
-                "Killer Whales",
-                "Giant Flipper with Teeth",
-                "Dragons of the Sea"
-            ]
-        },
-        {
-            "How far back does evidence for the existance of sharks date back to?":[
-                "450 million years",
-                "one billion years",
-                "at least 1973",
-                "one million years",
-                "25 thousand years"
-            ]
-        },
-        {
-            "What was the estimated length of the Megalodon shark?":[
-                "59 feet",
-                "200 feet",
-                "25 feet",
-                "12 feet",
-                "120 feet"
-            ]
-        },
-        {
-            "How many dorsal fins do sharks have?":[
-                "two",
-                "one",
-                "twelve",
-                "six"
-            ]
-        },
-        {
-            "What is the name of the tail fin on a shark?":[
-                "caudil fin",
-                "pectoral fin",
-                "dorsal fin",
-                "pelvic fin"
-            ]
-        },
-        {
-            "What part of a shark supplies oxygen directly to the eyes and brain?":[
-                "spiracle",
-                "gill",
-                "nostril",
-                "clasper"
-            ]
-        },
-        {
-            "How many teeth do sharks shed in a lifetime?": [
-                "35,000",
-                "one million",
-                "200",
-                "1000",
-                "5000"
-            ]
-        },
-        {
-            "How long were the longest teeth on a Megalodon?": [
-                "7 inches",
-                "2 inches",
-                "1 foot",
-                "18 inches",
-                "1 inch"
-            ]
-        },
-        {
-            "What is the length of the longest Whale shark?":[
-                "41 feet",
-                "100 feet",
-                "20 feet",
-                "15 feet"
-            ]
-        },
-        {
-            "How fast can a Shortfin Mako Shark swim for a burst of speed?":[
-                "31 mph",
-                "55 mph",
-                "20 mph",
-                "100 mph"
-            ]
-        },
-        {
-            "What is the average number of fatalities worldwide per year from unprovoked shark attacks?":[
-                "four",
-                "100",
-                "1000",
-                "26"
-            ]
-        },
-        {
-            "What year did the American thriller film Jaws release?":[
-                "1975",
-                "1968",
-                "1988",
-                "1972"
-            ]
-        },
-        {
-            "How heavy are Great White Sharks?":[
-                "4300 pounds",
-                "1000 pounds",
-                "500 pounds",
-                "50,000 pounds"
-            ]
-        },
-        {
-            "What is the average lifespan of Great White Sharks?":[
-                "70 years",
-                "12 years",
-                "25 years", 
-                "40 years"
-            ]
-        },
-        {
-            "How many Great White Sharks are estimated to live along the California coastline?":[
-                "2400",
-                "10,000",
-                "100,000",
-                "500"
-            ]
-        },
-        {
-            "How many pups does a Nurse Shark have when they reproduce?":[
-		"25",
-                "one",
-                "five",
-                "two",
-                "100"
-            ]
-	},
-	{
-	    "What color are adult Nurse Sharks?":[
-		"brown",
-                "grey",
-                "white",
-		"orange",
-		"blue"
-	    ]
-	},
-	{
-	    "How many gill slits do sharks normally have?":[
-		"five",
-		"seven",
-		"three",
-		"nine"
-	    ]
-	},
-	{
-	    "What is a common characteristic of the Cow Shark family?":[
-		"They have additional gill slits.",
-		"They swim in deeper water.",
-		"They are found only in the Atlantic.",
-		"They require milk to survive."
-	    ]
-	},
-	{
-	    "How many dorsal fins do sharks from the Squaliformes or Dogfish family have?":[
-		"two",
-		"one",
-		"four",
-		"five"
-	    ]
-	},
-	{
-	    "Why characteristic is given to the Somniosidae family of sharks, also known as sleeper sharks?":[
-		"They are percieved as non-aggressive as they are slow swimming and have a low activity level.",
-		"They make nests that appear to look like sleeping bags.",
-		"They commonly sleep for 23 hours a day.",
-		"They only exist in dreams."
-	    ]
-	}
-    ],
     "QUESTIONS_EN_US" : [
         {
-            "What was the nickname that mariners gave to Sharks until the 16th century?":[
-                "Sea Dogs",
-                "Big Scary Fish",
-                "Killer Whales",
-                "Giant Flipper with Teeth",
-                "Dragons of the Sea"
+            "What is the birthstone for January?":[
+		"Garnet",
+		"Amethyst",
+		"Aquamarine",
+		"Diamond",
+		"Emerald",
+		"Pearl or Alexandrite",
+		"Ruby",
+		"Peridot",
+		"Sapphire",
+		"Tourmaline or Opal",
+		"Topaz or Citrine",
+		"Tanzanite, Zircon or Turquoise"
             ]
         },
         {
-            "How far back does evidence for the existance of sharks date back to?":[
-                "450 million years",
-                "one billion years",
-                "at least 1973",
-                "one million years",
-                "25 thousand years"
+            "What is the birthstone for Feburary?":[
+                "Amethyst",
+                "Aquamarine",
+                "Diamond",
+                "Emerald",
+		"Garnet",
+                "Pearl or Alexandrite",
+                "Ruby",
+                "Peridot",
+                "Sapphire",
+                "Tourmaline or Opal",
+                "Topaz or Citrine",
+                "Tanzanite, Zircon or Turquoise"
             ]
         },
         {
-            "What was the estimated length of the Megalodon shark?":[
-                "59 feet",
-                "200 feet",
-                "25 feet",
-                "12 feet",
-                "120 feet"
+            "What is the birthstone for March?":[
+                "Amethyst",
+                "Garnet",
+                "Aquamarine",
+                "Diamond",
+                "Emerald",
+                "Pearl or Alexandrite",
+                "Ruby",
+                "Peridot",
+                "Sapphire",
+                "Tourmaline or Opal",
+                "Topaz or Citrine",
+                "Tanzanite, Zircon or Turquoise"
+            ]
+        },   
+        {
+            "What is the birthstone for April?":[
+                "Diamond",
+                "Amethyst",
+                "Garnet",                
+                "Aquamarine",
+                "Emerald",
+                "Pearl or Alexandrite",
+                "Ruby",
+                "Peridot",
+                "Sapphire",
+                "Tourmaline or Opal",
+                "Topaz or Citrine",
+                "Tanzanite, Zircon or Turquoise"
             ]
         },
         {
-            "How many dorsal fins do sharks have?":[
-                "two",
-                "one",
-                "twelve",
-                "six"
+            "What is the birthstone for May?":[
+                "Emerald",
+                "Diamond",                
+                "Amethyst",
+                "Garnet",                
+                "Aquamarine",
+                "Pearl or Alexandrite",
+                "Ruby",
+                "Peridot",
+                "Sapphire",
+                "Tourmaline or Opal",
+                "Topaz or Citrine",
+                "Tanzanite, Zircon or Turquoise"
             ]
         },
         {
-            "What is the name of the tail fin on a shark?":[
-                "caudil fin",
-                "pectoral fin",
-                "dorsal fin",
-                "pelvic fin"
+            "What is the birthstone for June?":[
+                "Pearl or Alexandrite",
+                "Emerald",                
+                "Diamond",
+                "Amethyst",
+                "Garnet",
+                "Aquamarine",             
+                "Ruby",
+                "Peridot",
+                "Sapphire",
+                "Tourmaline or Opal",
+                "Topaz or Citrine",
+                "Tanzanite, Zircon or Turquoise"
+            ]
+        },   
+        {
+            "What is the birthstone for July?":[
+                "Ruby",
+                "Pearl or Alexandrite",
+                "Emerald",
+                "Diamond",
+                "Amethyst",
+                "Garnet",
+                "Aquamarine",             
+                "Peridot",
+                "Sapphire",
+                "Tourmaline or Opal",
+                "Topaz or Citrine",
+                "Tanzanite, Zircon or Turquoise"
             ]
         },
         {
-            "What part of a shark supplies oxygen directly to the eyes and brain?":[
-                "spiracle",
-                "gill",
-                "nostril",
-                "clasper"
+            "What is the birthstone for August?":[
+                "Peridot",
+                "Ruby",
+                "Pearl or Alexandrite",
+                "Emerald",
+                "Diamond",
+                "Amethyst",
+                "Garnet",
+                "Aquamarine",             
+                "Sapphire",
+                "Tourmaline or Opal",
+                "Topaz or Citrine",
+                "Tanzanite, Zircon or Turquoise"
             ]
         },
         {
-            "How many teeth do sharks shed in a lifetime?": [
-                "35,000",
-                "one million",
-                "200",
-                "1000",
-                "5000"
+            "What is the birthstone for September?":[
+                "Sapphire",
+                "Peridot",
+                "Ruby",
+                "Pearl or Alexandrite",
+                "Emerald",
+                "Diamond",
+                "Amethyst",
+                "Garnet",
+                "Aquamarine",             
+                "Tourmaline or Opal",
+                "Topaz or Citrine",
+                "Tanzanite, Zircon or Turquoise"
             ]
         },
         {
-            "How long were the longest teeth on a Megalodon?": [
-                "7 inches",
-                "2 inches",
-                "1 foot",
-                "18 inches",
-                "1 inch"
+            "What is the birthstone for October?":[
+                "Tourmaline or Opal",
+                "Sapphire",                
+                "Peridot",
+                "Ruby",
+                "Pearl or Alexandrite",
+                "Emerald",
+                "Diamond",
+                "Amethyst",
+                "Garnet",
+                "Aquamarine",             
+                "Topaz or Citrine",
+                "Tanzanite, Zircon or Turquoise"
+            ]
+        },     
+        {
+            "What is the birthstone for November?":[
+                "Topaz or Citrine",
+                "Tourmaline or Opal",                
+                "Sapphire",
+                "Peridot",
+                "Ruby",
+                "Pearl or Alexandrite",
+                "Emerald",
+                "Diamond",
+                "Amethyst",
+                "Garnet",
+                "Aquamarine",
+                "Tanzanite, Zircon or Turquoise"
             ]
         },
         {
-            "What is the length of the longest Whale shark?":[
-                "41 feet",
-                "100 feet",
-                "20 feet",
-                "15 feet"
-            ]
-        },
-        {
-            "How fast can a Shortfin Mako Shark swim for a burst of speed?":[
-                "31 mph",
-                "55 mph",
-                "20 mph",
-                "100 mph"
-            ]
-        },
-        {
-            "What is the average number of fatalities worldwide per year from unprovoked shark attacks?":[
-                "four",
-                "100",
-                "1000",
-                "26"
-            ]
-        },
-        {
-            "What year did the American thriller film Jaws release?":[
-                "1975",
-                "1968",
-                "1988",
-                "1972"
-            ]
-        },
-        {
-            "How heavy are Great White Sharks?":[
-                "4300 pounds",
-                "1000 pounds",
-                "500 pounds",
-                "50,000 pounds"
-            ]
-        },
-        {
-            "What is the average lifespan of Great White Sharks?":[
-                "70 years",
-                "12 years",
-                "25 years", 
-                "40 years"
-            ]
-        },
-        {
-            "How many Great White Sharks are estimated to live along the California coastline?":[
-                "2400",
-                "10,000",
-                "100,000",
-                "500"
-            ]
-        },
-        {
-            "How many pups does a Nurse Shark have when they reproduce?":[
-		"25",
-                "one",
-                "five",
-                "two",
-                "100"
+            "What is the birthstone for December?":[
+                "Tanzanite, Zircon or Turquoise",
+                "Topaz or Citrine",
+                "Tourmaline or Opal",
+                "Sapphire",
+                "Peridot",
+                "Ruby",
+                "Pearl or Alexandrite",
+                "Emerald",
+                "Diamond",
+                "Amethyst",
+                "Garnet",
+                "Aquamarine"
             ]
 	},
 	{
-	    "What color are adult Nurse Sharks?":[
-		"brown",
-                "grey",
-                "white",
-		"orange",
-		"blue"
+	    "What color is a garnet birthstone?":[
+		"Red",
+		"Blue",
+		"Purple",
+		"Violet",
+		"Lavender"
 	    ]
 	},
 	{
-	    "How many gill slits do sharks normally have?":[
-		"five",
-		"seven",
-		"three",
-		"nine"
+	    "What color is an Amethyst?":[
+		"Purple",
+		"Orange",
+		"Green",
+		"White",
+		"Tan"
 	    ]
 	},
 	{
-	    "What is a common characteristic of the Cow Shark family?":[
-		"They have additional gill slits.",
-		"They swim in deeper water.",
-		"They are found only in the Atlantic.",
-		"They require milk to survive."
+	    "What element are diamonds made from?":[
+		"Carbon",
+		"Boron",
+		"Silver",
+		"Hydrogen",
+		"Plutonium"
 	    ]
 	},
 	{
-	    "How many dorsal fins do sharks from the Squaliformes or Dogfish family have?":[
-		"two",
-		"one",
-		"four",
-		"five"
+	    "What color is an emerald?":[
+		"Green",
+		"Blue",
+		"Pink",
+		"Orange",
+		"Silver"
 	    ]
 	},
 	{
-	    "Why characteristic is given to the Somniosidae family of sharks, also known as sleeper sharks?":[
-		"They are percieved as non-aggressive as they are slow swimming and have a low activity level.",
-		"They make nests that appear to look like sleeping bags.",
-		"They commonly sleep for 23 hours a day.",
-		"They only exist in dreams."
+	    "Which language is the word pearl derived from?":[
+		"French",
+		"Spanish",
+		"Latin",
+		"Italian",
+		"Chinese"
+	    ]
+	},
+	{
+	    "What color is a ruby?":[
+		"Red",
+		"Orange",
+		"Green",
+		"Blue",
+		"Purple"
+	    ]
+	},
+	{
+	    "What color is a Peridot?":[
+		"Green",
+		"Blue",
+		"Purple",
+		"Black",
+		"White"
+	    ]
+	},
+	{
+	    "What color is a Sapphire?":[
+		"Blue",
+		"Green",
+		"Red",
+		"Orange",
+		"White"
+	    ]
+	},
+	{
+	    "Where is most of the worlds opal produced?":[
+		"Australia",
+		"Peru",
+		"Canada",
+		"France",
+		"Japan"
+	    ]
+	},
+	{
+	    "What color is a typical opal stone?":[
+		"Black",
+		"Yellow",
+		"White",
+		"Green"
+	    ]
+	},
+	{
+	    "What langauge does the gemstone Topaz come from?":[
+		"Greek",
+		"Latin",
+		"French",
+		"Italian",
+		"Spanish"
+	    ]
+	},
+	{
+	    "What color is Tanzanite?":[
+		"Blue",
+		"Orange",
+		"Green",
+		"Black",
+		"White"
+	    ]
+	},
+	{
+	    "What is not one of the four C's for diamonds?":[
+		"Custom",
+		"Cut",
+		"Color",
+		"Carat",
+		"Clarity"
+	    ]
+	},
+	{
+	    "What is the melting point of diamonds?":[
+		"7300 degrees fahrenheit",
+		"1000 degrees fahrenheit",
+		"one million degrees fahrenheit",
+		"500 degrees fahrenheit",
+		"2000 degrees fahrenheit"
+	    ]
+	},
+	{
+	    "What contamination in diamonds gives them a yellow hue?":[
+		"Nitrogen",
+		"Water",
+		"Salt",
+		"Boron",
+		"Oxygen"
+	    ]
+	},
+	{
+	    "How much does the Hope Diamond weigh?":[
+		"45 carats",
+		"25 carats",
+		"200 carats",
+		"100 carats",
+		"500 carats"
+	    ]
+	},
+	{
+	    "How much did the 12 carat diamond, Blue Moon, sell for in 2015?":[
+		"$48 million",
+		"$2 million",
+		"$5 million",
+		"$17 million",
+		"$1 million"
+	    ]
+	},
+	{
+	    "Which gemstone is not considered precious?":[
+		"Quartz",
+		"Diamond",
+		"Ruby",
+		"Sapphire",
+		"Emerald"
 	    ]
 	}
     ]
